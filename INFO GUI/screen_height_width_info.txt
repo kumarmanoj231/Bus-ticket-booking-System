@@ -1,0 +1,1 @@
+root.geometry('%dx%d+0+0'%(root.winfo_screenwidth(),root.winfo_screenheight()))
