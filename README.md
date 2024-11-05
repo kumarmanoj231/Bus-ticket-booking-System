@@ -2,7 +2,7 @@
 # Overview
 Welcome to the Bus Ticket Booking System! This application is designed to streamline the process of booking bus tickets, managing bus schedules, and adding driver information, all through an intuitive graphical user interface (GUI) built with Python's Tkinter library. Leveraging a robust SQL database, this system ensures that all data is efficiently stored and easily accessible.
 
-#Features
+# Features
 User-Friendly Interface: A simple and intuitive GUI for seamless navigation.
 Ticket Booking: Users can effortlessly search for available buses and book tickets in just a few clicks.
 Bus Management: Admins can add, update, or remove bus details from the database.
